@@ -1,0 +1,397 @@
+
+{
+  "status": "ok",
+  "totalResults": 30,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Earthquake hits Taiwan, setting off tsunami alerts",
+      "description": "Japan and the Philippines have warned of high tsunami waves hitting their coastal areas.",
+      "url": "https://www.bbc.co.uk/news/world-asia-68719996",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+      "publishedAt": "2024-04-03T01:02:02Z",
+      "content": "A 7.4 magnitude earthquake struck off Taiwan's east coast on Wednesday, setting off tsunami warnings on the island and its neighbouring countries.\r\nThe epicentre is located about 18km (11mi) south of… [+645 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Danielle Jennings, Joyce Huang",
+      "title": "7.4 magnitude earthquake hits Taiwan",
+      "description": "A magnitude 7.4 earthquake occurred in Taiwan at 7:58 a.m. local time.",
+      "url": "https://abcnews.go.com/International/72-magnitude-earthquake-hits-taiwan/story?id=108768702",
+      "urlToImage": "https://s.abcnews.com/images/General/Breaking-News-banner-abc-ps-181024_hpMain_16x9_992.jpg?w=1600",
+      "publishedAt": "2024-04-03T00:49:31Z",
+      "content": "A magnitude 7.4 earthquake occurred in Taiwan at 7:58 a.m. local time, with an epicenter in eastern Hualien,Taiwan.\r\nIt was followed by a 6.5M earthquake a short while later, according to the U.S. Ge… [+185 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Simmone Shah and Eli Cohen",
+      "title": "Photos of the Devastation After the Earthquake in Taiwan",
+      "description": "A 7.4 magnitude earthquake struck the east coast of Taiwan on Wednesday morning, leaving nine people dead and at least 946 are injured.",
+      "url": "https://time.com/6963034/taiwan-earthquake-photos/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/taiwan-earthquake-01.jpg?quality=85",
+      "publishedAt": "2024-04-03T17:56:31Z",
+      "content": "A 7.4 magnitude earthquake struck the east coast of Taiwan on Wednesday morning, leaving nine people dead and at least 946 are injured. \r\nThe earthquake was the largest to hit the island in a quarter… [+3557 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "A moderately strong earthquake struck southern Greece. No injuries, damage reported",
+      "description": "An earthquake with a preliminary magnitude of 5.7 has struck southern Greece off the coast of the western Peloponnese",
+      "url": "https://abcnews.go.com/International/wireStory/moderately-strong-earthquake-struck-southern-greece-injuries-damage-108647471",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-03-29T08:45:53Z",
+      "content": "ATHENS, Greece -- An earthquake with a preliminary magnitude of 5.7 has struck southern Greece off the coast of the western Peloponnese. There were no immediate reports of damage or injuries from the… [+459 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Watch moment 7.2 magnitude earthquake hits Taiwan",
+      "description": "Eyewitness video shows buildings leaning at a 45 degree angle in Hualien, near the quake’s epicentre.",
+      "url": "https://www.bbc.co.uk/news/av/world-asia-68720716",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17620/production/_133067759_p0hng53c.jpg",
+      "publishedAt": "2024-04-03T05:55:17Z",
+      "content": "Eyewitness video shows extensive damage in Hualien, near the quakes epicentre, with some buildings left leaning at a 45 degree angle.\r\nThe tremors also triggered landslides, shrouding nearby villages… [+143 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Watch: Taiwan quake makes waves in rooftop pool",
+      "description": "The moment a man swimming in hotel rooftop pool was shaken by the Taiwan earthquake.",
+      "url": "https://www.bbc.co.uk/news/av/world-asia-68725673",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5AA7/production/_133070232_p0hnk3gt.jpg",
+      "publishedAt": "2024-04-03T13:44:45Z",
+      "content": "A man was caught up in the Taiwan earthquake whilst swimming in a hotel rooftop pool in Taiwan's capital city, Taipei.\r\nThe magnitude 7.4 earthquake caused widespread destruction and at least nine pe… [+94 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Taiwan wakes up to aftermath of worst quake in 25 years",
+      "description": "More than 100 people are still understood to be trapped in collapsed tunnels and on roads.",
+      "url": "https://www.bbc.co.uk/news/world-asia-68729048",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3D83/production/_133074751_c2b870408b37e396d24d3f6acd2ef6cf469d8e42.jpg",
+      "publishedAt": "2024-04-04T00:26:19Z",
+      "content": "The people of Taiwan have woken up to the aftermath of its worst earthquake in a quarter of a century.\r\nRescue efforts continued on Thursday after a 7.4 magnitude earthquake struck the island's easte… [+3508 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "2 Canadians stranded by Taiwan earthquake, says firefighting agency",
+      "description": "Taiwan's firefighting service says two Canadians were among a group of people stranded by rock slides in a gorge after the island's strongest earthquake in 25 years.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/2-canadians-stranded-by-taiwan-earthquake-1.7162447",
+      "urlToImage": "https://i.cbc.ca/1.7161901.1712111544!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/taiwan-earthquake-xiulin-landslide.JPG",
+      "publishedAt": "2024-04-03T23:18:52Z",
+      "content": "Taiwan's firefighting service says two Canadians were among a group of people stranded by rock slides in a gorge after the island's strongest earthquake in 25 years.\r\nThe agency says in an overnight … [+2459 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Associated Press",
+      "title": "Over-7 Magnitude Earthquake Rocks Taiwan, Felling Buildings and Causing a Tsunami",
+      "description": "A powerful earthquake rocked the entire island of Taiwan early Wednesday, collapsing buildings in a southern city and creating a tsunami that washed ashore on southern Japanese islands.",
+      "url": "https://time.com/6962845/taiwan-earthquake-magnitude-buildings-tsunami/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/AP24094038761392.jpg?quality=85",
+      "publishedAt": "2024-04-03T01:45:00Z",
+      "content": "A powerful earthquake rocked the entire island of Taiwan early Wednesday, collapsing buildings in a southern city and creating a tsunami that washed ashore on southern Japanese islands.\r\nA five-story… [+1821 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Magnitude 2.8 earthquake shakes southern Illinois; no damage or injuries reported",
+      "description": "A magnitude 2.8 earthquake has been reported in southern Illinois, near the Missouri state line",
+      "url": "https://abcnews.go.com/Technology/wireStory/magnitude-28-earthquake-shakes-southern-illinois-damage-injuries-108652776",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-03-29T12:22:08Z",
+      "content": "GERMANTOWN, Ill. -- An earthquake of magnitude 2.8 has been reported in southern Illinois, near the Missouri state line, the U.S. Geological Survey reported.\r\nThe earthquake was detected about 6:55 p… [+697 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "A strong earthquake hits near Taiwan, tsunami alert issued",
+      "description": "A strong earthquake of magnitude 7.5 struck off Taiwan, and Japan issued a tsunami alert for the southern Japanese island group of Okinawa",
+      "url": "https://abcnews.go.com/Technology/wireStory/strong-earthquake-hits-taiwan-tsunami-alert-issued-108768701",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-04-03T00:30:08Z",
+      "content": "TAIPEI, Taiwan -- A strong earthquake of magnitude 7.5 struck off Taiwan, and Japan issued a tsunami alert for the southern Japanese island group of Okinawa.\r\nJapan's meteorological agency forecast a… [+117 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "SIMINA MISTREANU / AP",
+      "title": "Here’s Why Taiwan Is So Exposed to Earthquakes",
+      "description": "Taiwan was struck Wednesday by its most powerful earthquake in a quarter of a century. At least nine people were killed and hundreds injured, buildings and highways damaged and dozens of workers at quarries stranded.",
+      "url": "https://time.com/6963097/taiwan-earthquakes/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/Taiwan.jpg?quality=85",
+      "publishedAt": "2024-04-03T16:57:23Z",
+      "content": "TAIPEI, Taiwan Taiwan was struck Wednesday by its most powerful earthquake in a quarter of a century. At least nine people were killed and hundreds injured, buildings and highways damaged and dozens … [+3868 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "SIMINA MISTREANU Associated Press",
+      "title": "Why is Taiwan so exposed to earthquakes and so well prepared to withstand them?",
+      "description": "Taiwan was struck Wednesday by its most powerful earthquake in a quarter of a century",
+      "url": "https://abcnews.go.com/Technology/wireStory/taiwan-exposed-earthquakes-prepared-withstand-108823105",
+      "urlToImage": "https://i.abcnewsfe.com/a/1e866149-29ba-46ac-9965-59849da72579/wirestory_8c3de7d63c964ae460424aa7e52581a2_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-04T00:54:21Z",
+      "content": "TAIPEI, Taiwan -- Taiwan was struck Wednesday by its most powerful earthquake in a quarter of a century. At least nine people were killed and hundreds injured, buildings and highways damaged and doze… [+3751 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "A moderately strong earthquake shakes Montenegro and neighboring countries in the Western Balkans",
+      "description": "A moderately strong earthquake has shaken Montenegro and neighboring countries, but there are no reports of casualties or serious damage",
+      "url": "https://abcnews.go.com/International/wireStory/moderately-strong-earthquake-shakes-montenegro-neighboring-countries-western-108106064",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-03-14T08:45:54Z",
+      "content": "PODGORICA, Montenegro -- A moderately strong earthquake shook Montenegro and neighboring countries early Thursday but there were no reports of casualties or serious damage.\r\nThe magnitude 5.4 earthqu… [+684 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "SIMINA MISTREANU Associated Press",
+      "title": "Why is Taiwan so exposed to earthquakes and so well prepared to withstand them?",
+      "description": "Taiwan was struck Wednesday by its most powerful earthquake in a quarter of a century",
+      "url": "https://abcnews.go.com/International/wireStory/taiwan-exposed-earthquakes-prepared-withstand-108786307",
+      "urlToImage": "https://i.abcnewsfe.com/a/1e866149-29ba-46ac-9965-59849da72579/wirestory_8c3de7d63c964ae460424aa7e52581a2_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-03T10:30:42Z",
+      "content": "TAIPEI, Taiwan -- Taiwan was struck Wednesday by its most powerful earthquake in a quarter of a century. At least nine people were killed and hundreds injured, buildings and highways damaged and trai… [+3297 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "PAT EATON-ROBB Associated Press",
+      "title": "A small earthquake and 'Moodus Noises' are nothing new for one Connecticut town",
+      "description": "A small earthquake hit the small Connecticut town of East Hampton on Wednesday, but that's nothing new",
+      "url": "https://abcnews.go.com/Technology/wireStory/small-earthquake-moodus-noises-new-connecticut-town-107894954",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-03-07T20:14:15Z",
+      "content": "Donna Lindstrom was lying in bed and looking at her phone Wednesday morning when she heard a loud bang that rattled her 19th-century house in the central Connecticut town of East Hampton.\r\nSoon, the … [+2373 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "A strong earthquake shakes Indonesia's Java Island but no reports of casualties",
+      "description": "A strong and shallow undersea earthquake has shaken the eastern side of Indonesia’s main island of Java, causing some damage but no immediate reports of casualties",
+      "url": "https://abcnews.go.com/International/wireStory/strong-earthquake-shakes-indonesias-java-island-reports-casualties-108382819",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-03-22T10:30:01Z",
+      "content": "JAKARTA, Indonesia -- A strong and shallow undersea earthquake shook the eastern side of Indonesias main island of Java on Friday, causing some damage but no immediate reports of casualties. \r\nThe U.… [+1079 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Delivering food in a warzone: The story behind World Central Kitchen",
+      "description": "Since 2010, World Central Kitchen has served more than 350 million meals in the world's disaster and war zones.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68715254",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/99BC/production/_133065393_gettyimages-2084796749.jpg",
+      "publishedAt": "2024-04-02T20:42:20Z",
+      "content": "The killing of seven members of World Central Kitchen (WCK) in Gaza has starkly highlighted the food charity's often dangerous work around the globe. \r\nFor 14 years, the non-profit founded by chef Jo… [+5856 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MARI YAMAGUCHI Associated Press",
+      "title": "Japanese emperor and empress visit towns hit by Jan. 1 quake and console homeless",
+      "description": "Japan’s Emperor Naruhito and Empress Masako have visited towns in the north-central region of Noto to pray for victims of the deadly New Year’s Day earthquake and console thousands of homeless living in evacuation centers",
+      "url": "https://abcnews.go.com/International/wireStory/japanese-emperor-empress-visit-towns-hit-jan-1-108388103",
+      "urlToImage": "https://i.abcnewsfe.com/a/e5eb4f5e-b595-419b-b5b4-a759a6d1292a/wirestory_009f879eb704e4c0d98f1ad73c38c845_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-22T13:50:28Z",
+      "content": "TOKYO -- Japan's Emperor Naruhito and Empress Masako on Friday visited towns in the north-central region of Noto to pray for victims of the deadly New Year's Day earthquake and console thousands of h… [+1409 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MARI YAMAGUCHI Associated Press",
+      "title": "13 years after Fukushima nuclear disaster, Japan remembers the dead and vows to keep rebuilding",
+      "description": "Japan marked the 13th anniversary of the massive earthquake and tsunami that triggered a nuclear meltdown and left parts of Fukushima prefecture uninhabitable on Monday with a minute of silence and memorial events, where officials pledged continued sup...",
+      "url": "https://abcnews.go.com/International/wireStory/13-years-after-fukushima-nuclear-disaster-japan-remembers-108001509",
+      "urlToImage": "https://i.abcnewsfe.com/a/4968f56a-1190-49e2-abd2-acdb0ebf9dc2/wirestory_0e44b07249ca030566fa6338d82a81eb_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-11T11:02:27Z",
+      "content": "TOKYO -- Japan marked the 13th anniversary of the massive earthquake and tsunami that triggered a nuclear meltdown and left large parts of Fukushima prefecture uninhabitable on Monday with a minute o… [+3324 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MARI YAMAGUCHI Associated Press",
+      "title": "Japan marks 13 years since massive tsunami disaster. A closer look at the Fukushima nuclear plant",
+      "description": "Japan is marking 13 years since a massive earthquake and tsunami hit the country’s northern coasts, killing nearly 20,000 people, wiping out whole towns and destroying the Fukushima Daiichi nuclear power plant",
+      "url": "https://abcnews.go.com/Technology/wireStory/japan-marks-13-years-massive-tsunami-disaster-closer-108000063",
+      "urlToImage": "https://i.abcnewsfe.com/a/d494208d-4497-4fd5-b932-87bc0b29409a/wirestory_0089f053d670c78dafd9578c242e1fb3_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-11T07:10:41Z",
+      "content": "TOKYO -- Japan on Monday marked 13 years since a massive earthquake and tsunami hit the countrys northern coasts. Nearly 20,000 people died, whole towns were wiped out and the Fukushima Daiichi nucle… [+6595 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Fracking site shut down after earthquake shakes Fox Creek, Alta.",
+      "description": "A hydraulic fracturing operation near the community of Fox Creek in northwestern Alberta has been shut down after an earthquake last week.",
+      "url": "https://www.cbc.ca/news/canada/edmonton/earthquake-shakes-fox-creek-shuts-down-northern-alberta-fracking-site-1.7156034",
+      "urlToImage": "https://i.cbc.ca/1.3101834.1711476834!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fracking.jpg",
+      "publishedAt": "2024-03-26T18:51:44Z",
+      "content": "A hydraulic fracturing operation near the community of Fox Creek in northwestern Alberta has been shut down after an earthquake last week.\r\nThe tremor, recorded Friday afternoon 35 kilometres southwe… [+3706 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MARI YAMAGUCHI Associated Press",
+      "title": "Japan marks 13 years since massive tsunami disaster. A closer look at the Fukushima nuclear plant",
+      "description": "Japan is marking 13 years since a massive earthquake and tsunami hit the country’s northern coasts, killing nearly 20,000 people, wiping out whole towns and destroying the Fukushima Daiichi nuclear power plant",
+      "url": "https://abcnews.go.com/International/wireStory/japan-marks-13-years-massive-tsunami-disaster-closer-108000061",
+      "urlToImage": "https://i.abcnewsfe.com/a/d494208d-4497-4fd5-b932-87bc0b29409a/wirestory_0089f053d670c78dafd9578c242e1fb3_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-11T07:26:29Z",
+      "content": "TOKYO -- Japan on Monday marked 13 years since a massive earthquake and tsunami hit the countrys northern coasts. Nearly 20,000 people died, whole towns were wiped out and the Fukushima Daiichi nucle… [+6595 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "PAT EATON-ROBB Associated Press",
+      "title": "A small earthquake and 'Moodus Noises' are nothing new for one Connecticut town",
+      "description": "A small earthquake hit the small Connecticut town of East Hampton on Wednesday, but that's nothing new",
+      "url": "https://abcnews.go.com/US/wireStory/small-earthquake-moodus-noises-new-connecticut-town-107894953",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-03-07T20:22:16Z",
+      "content": "Donna Lindstrom was lying in bed and looking at her phone Wednesday morning when she heard a loud bang that rattled her 19th-century house in the central Connecticut town of East Hampton.\r\nSoon, the … [+2373 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MARI YAMAGUCHI Associated Press",
+      "title": "13 years after meltdown, the head of Japan's nuclear cleanup is probing mysteries inside reactors",
+      "description": "As Japan prepares to mark the 13th anniversary of its worst-ever nuclear disaster, the man in charge of cleaning it up says his team is fighting to bring a sample out of the heart of the site’s radioactive debris",
+      "url": "https://abcnews.go.com/International/wireStory/13-years-after-meltdown-head-japans-nuclear-cleanup-107876342",
+      "urlToImage": "https://i.abcnewsfe.com/a/72fd475b-92bb-4b65-98d8-37bcde06fd85/wirestory_ae9cea4db2a839b7fe4a8c53f22f3fd7_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-07T08:06:50Z",
+      "content": "TOKYO -- As Japan prepares to mark the 13th anniversary of its worst-ever nuclear disaster, the man in charge of cleaning it up says his team is fighting to bring a sample out of the heart of the sit… [+3397 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "EVENS SANON Associated Press",
+      "title": "A timeline of Haiti's gang violence and how the country got to where it is",
+      "description": "Haiti is once again facing a wave of chaos fueled by ongoing gang wars",
+      "url": "https://abcnews.go.com/International/wireStory/timeline-haitis-gang-violence-country-107898834",
+      "urlToImage": "https://i.abcnewsfe.com/a/d2a008b5-b6ee-4db1-968d-b7fb30c85e9b/wirestory_150201a4ce6f772893ca339e632b5446_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-07T22:22:34Z",
+      "content": "PORT-AU-PRINCE, Haiti -- Haiti is once again facing a wave of chaos fueled by ongoing gang wars, which have spiraled since the 2021 assassination of the countrys president. Gang leaders have grown in… [+3218 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "World Central Kitchen founder condemns Gaza strike",
+      "description": "The World Central Kitchen founder, Jose Andres, says Israeli forces deliberately targeted vehicles carrying people working for his organisation in Monday’s strikes in Gaza. Meanwhile, some world leaders have also condemned the attack that left seven people wo…",
+      "url": "https://www.bbc.co.uk/programmes/w172zb8skp3xvtx",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0hnnk6q.jpg",
+      "publishedAt": "2024-04-03T21:22:00Z",
+      "content": "The World Central Kitchen founder, Jose Andres, says Israeli forces deliberately targeted vehicles carrying people working for his organisation in Mondays strikes in Gaza. Meanwhile, some world leade… [+439 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MARI YAMAGUCHI Associated Press",
+      "title": "Japan marks 13 years since massive tsunami disaster. A closer look at the Fukushima nuclear plant",
+      "description": "Japan is marking 13 years since a massive earthquake and tsunami hit the country’s northern coasts, killing nearly 20,000 people, wiping out whole towns and destroying the Fukushima Daiichi nuclear power plant",
+      "url": "https://abcnews.go.com/Business/wireStory/japan-marks-13-years-massive-tsunami-disaster-closer-108000062",
+      "urlToImage": "https://i.abcnewsfe.com/a/d494208d-4497-4fd5-b932-87bc0b29409a/wirestory_0089f053d670c78dafd9578c242e1fb3_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-11T07:02:56Z",
+      "content": "TOKYO -- Japan on Monday marked 13 years since a massive earthquake and tsunami hit the countrys northern coasts. Nearly 20,000 people died, whole towns were wiped out and the Fukushima Daiichi nucle… [+6595 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "OMAR ALBAM Associated Press, ABSEWELL Associated Press",
+      "title": "Violence in Syria is on the rise while aid is flagging as the civil war enters its 14th year",
+      "description": "Syria’s civil war has entered its 14th year, a somber anniversary in a long-frozen conflict",
+      "url": "https://abcnews.go.com/International/wireStory/violence-syria-rise-aid-flagging-civil-war-enters-108152410",
+      "urlToImage": "https://i.abcnewsfe.com/a/aaf68b5f-5801-44d3-968c-2039891d1164/wirestory_33c00a3ecc3fb7e1507afbe04c5a1040_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-15T13:34:30Z",
+      "content": "AL-NAYRAB, Syria -- For years, Syrias civil war has been a largely frozen conflict, the country effectively carved up into areas controlled by the Damascus government of President Bashar Assad, vario… [+4499 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Bbc News",
+      "title": "Hundreds of landslides unleashed by 'intense' quake",
+      "description": "BBC Asia Correspondent, Rupert Wingfield-Hayes explains how the Taiwan earthquake unfolded.",
+      "url": "https://www.bbc.co.uk/news/av/world-asia-68721352",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8FA8/production/_133067763_p0hngdt2.jpg",
+      "publishedAt": "2024-04-03T11:42:41Z",
+      "content": "Taiwan has been struck by its most powerful earthquake in 25 years, which measured 7.4 in magnitude\r\nBBC Asia Correspondent, Rupert Wingfield-Hayes explains how the earthquake unfolded, reporting fro… [+21 chars]"
+    }
+  ]
+}
